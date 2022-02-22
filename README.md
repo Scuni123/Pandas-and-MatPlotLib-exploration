@@ -24,3 +24,8 @@ I'm not 100% sure if this is actually considered cleaning, but I spent a majorit
 
 ### Subplots
 I never made mutiple graphs at once. While the graphs I made aren't the best, it at least allowed me to see trends I wouldn't have otherwise seen. Graphing along with calculated indexing provides great insight
+
+### Changing data type
+The data apparently imported as Objects instead of floats. It took a little to figure out, but the solution was pretty simply since everything needed to be converted and not individual columns. 
+~~~
+df.
